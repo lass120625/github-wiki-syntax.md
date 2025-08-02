@@ -1,5 +1,3 @@
-# github-wiki-syntax.md
-
 # GitHub Wiki Syntax Reference
 
 This is my personal GitHub Wiki syntax quick reference manual for convenient and quick lookup during development.
