@@ -9,4 +9,4 @@ This is my personal GitHub Wiki syntax quick reference manual for convenient and
 Click the link above to view the syntax instructions, or clone the repo and open it locally with VS Code.
 
 ## Last Updated
-August 2025
+02 August 2025
