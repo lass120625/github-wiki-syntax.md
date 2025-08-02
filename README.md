@@ -1,14 +1,14 @@
 # github-wiki-syntax.md
 
-# GitHub Wiki 語法參考
+# GitHub Wiki Syntax Reference
 
-這是我個人整理的 GitHub Wiki 語法速查手冊，方便開發時快速查閱。
+This is my personal GitHub Wiki syntax quick reference manual for convenient and quick lookup during development.
 
-## 內容
-- [GitHub Wiki 語法參考](github-wiki-syntax.md) - 完整的 Markdown 語法指南
+## Contents
+- [GitHub Wiki Syntax Reference](github-wiki-syntax.md) - Complete Markdown syntax guide
 
-## 使用方式
-直接點擊上面的連結查看語法說明，或者 clone 到本地用 VS Code 開啟。
+## How to Use
+Click the link above to view the syntax instructions, or clone the repo and open it locally with VS Code.
 
-## 更新日期
-2025年8月
+## Last Updated
+August 2025
